@@ -4,6 +4,7 @@ Modify the paths to your need. You can only test the dungeon binary file while t
 
 Generating dungeon.bin:\
 `python main.py generate_dungeon_bin "/home/xander/.wine/dosdevices/c:/Program Files (x86)/Icseon/T-Bot Rewritten/script/dungeon/dungeon.bin"`
+![expected output](img/expected.png)
 
 Generating map_planet.bin:\
 `python main.py generate_map_bin files/map_planet.json "/home/xander/.wine/dosdevices/c:/Program Files (x86)/Icseon/T-Bot Rewritten/script/map_planet.bin"`
