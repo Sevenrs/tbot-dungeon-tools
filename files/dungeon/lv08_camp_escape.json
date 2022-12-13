@@ -1,0 +1,125 @@
+{
+
+  "spawns": [
+    315,
+    315,
+    315,
+    315,
+    315,
+    315,
+    -1,
+    2,
+    2,
+    2,
+    2,
+    4,
+    4,
+    4,
+    4,
+    -1,
+    0,
+    315,
+    315,
+    315,
+    2,
+    2,
+    2,
+    4,
+    4,
+    0,
+    4,
+    4,
+    2,
+    2,
+    0,
+    2,
+    2,
+    82,
+    82,
+    -1,
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    -1,
+    -1,
+    82,
+    82,
+    2,
+    2,
+    0,
+    0,
+    3,
+    4,
+    4,
+    315,
+    315,
+    -1
+  ],
+
+  "blocks": [
+
+    {
+
+      "rect":         [ 108, 19, 122, 3 ],
+      "enemies":      [ 0, 1, 2, 3, 4, 5 ],
+      "respawn":      [ ],
+      "clear":        [ 0, 1, 2, 3, 4, 5 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "We are surrounded! We could not protect our home. The only remaining option is to escape!",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 92, 19, 108, 3 ],
+      "enemies":      [ 7, 8, 9, 10, 11, 12, 13, 14 ],
+      "respawn":      [ ],
+      "clear":        [ 7, 8, 9, 10, 11, 12, 13, 14 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 54, 19, 74, 3 ],
+      "enemies":      [ 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 ],
+      "respawn":      [ ],
+      "clear":        [ 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32 ],
+      "vip":          [ ],
+      "exceptional":  [ 33, 34 ],
+      "text":         "The enemy detected your attempts in escaping and Slayer has commanded them to accumulate.",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 35, 19, 54, 3 ],
+      "enemies":      [ 36, 37, 38, 39, 40, 41, 42, 43 ],
+      "respawn":      [ ],
+      "clear":        [ 36, 37, 38, 39, 40, 41 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 5, 19, 35, 3 ],
+      "enemies":      [ 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54 ],
+      "respawn":      [ ],
+      "clear":        [ 50 ],
+      "vip":          [ ],
+      "exceptional":  [ 44, 45 ],
+      "text":         "Defeat Slayer and get out of here!",
+      "countdown":    0
+    }
+
+  ]
+}

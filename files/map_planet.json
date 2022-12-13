@@ -1,0 +1,506 @@
+[
+  {
+    "name":             "[Level 1] Training Ring",
+    "map":              "ar01_d01",
+    "script":           "lv01_training_ring",
+    "bgm":              "sound/bgm_dun02.wav",
+    "ui_picture":       "data/ui/ui_mm001.tga",
+    "original_boss":    0,
+    "replacement_boss": 0,
+    "level":            1,
+    "time_limit":       450,
+    "alarm_start_time": 45,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 3] Base Camp",
+    "map":              "ar02_d01",
+    "script":           "lv03_base_camp",
+    "bgm":              "sound/bgm_dun01.wav",
+    "ui_picture":       "data/ui/ui_mm002.tga",
+    "original_boss":    0,
+    "replacement_boss": 0,
+    "level":            3,
+    "time_limit":       540,
+    "alarm_start_time": 54,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 6] Camp Spike",
+    "map":              "ar03_d01",
+    "script":           "lv06_camp_spike",
+    "bgm":              "sound/bgm_dun01.wav",
+    "ui_picture":       "data/ui/ui_mm003.tga",
+    "original_boss":    0,
+    "replacement_boss": 0,
+    "level":            6,
+    "time_limit":       630,
+    "alarm_start_time": 63,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 8] Camp Escape",
+    "map":              "ar04_d01",
+    "script":           "lv08_camp_escape",
+    "bgm":              "sound/bgm_dun02.wav",
+    "ui_picture":       "data/ui/ui_mm029.tga",
+    "original_boss":    0,
+    "replacement_boss": 0,
+    "level":            8,
+    "time_limit":       630,
+    "alarm_start_time": 63,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 10] Planet Alderan",
+    "map":              "ad01_d01",
+    "script":           "lv10_planet_alderan",
+    "bgm":              "sound/bgm_battle01.wav",
+    "ui_picture":       "data/ui/ui_mm004.tga",
+    "original_boss":    26,
+    "replacement_boss": 69,
+    "level":            10,
+    "time_limit":       900,
+    "alarm_start_time": 90,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 13] Mine Entrance",
+    "map":              "ad02_d01",
+    "script":           "lv13_mine_entrance",
+    "bgm":              "sound/bgm_battle02.wav",
+    "ui_picture":       "data/ui/ui_mm005.tga",
+    "original_boss":    310,
+    "replacement_boss": 69,
+    "level":            13,
+    "time_limit":       1080,
+    "alarm_start_time": 108,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 16] Mine Alderan",
+    "map":              "ad03_d01",
+    "script":           "lv16_mine_alderan",
+    "bgm":              "sound/bgm_battle02.wav",
+    "ui_picture":       "data/ui/ui_mm006.tga",
+    "original_boss":    57,
+    "replacement_boss": 70,
+    "level":            16,
+    "time_limit":       1170,
+    "alarm_start_time": 117,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 18] Inner Mine",
+    "map":              "ad031_d01",
+    "script":           "lv18_inner_mine",
+    "bgm":              "sound/bgm_battle02.wav",
+    "ui_picture":       "data/ui/ui_mm030.tga",
+    "original_boss":    56,
+    "replacement_boss": 70,
+    "level":            18,
+    "time_limit":       1170,
+    "alarm_start_time": 117,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 20] Mine Exit",
+    "map":              "ad04_d01",
+    "script":           "lv20_mine_exit",
+    "bgm":              "sound/bgm_battle02.wav",
+    "ui_picture":       "data/ui/ui_mm007.tga",
+    "original_boss":    20,
+    "replacement_boss": 71,
+    "level":            20,
+    "time_limit":       1260,
+    "alarm_start_time": 126,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 23] Lava Sea",
+    "map":              "ad05_d01",
+    "script":           "lv23_lava_sea",
+    "bgm":              "sound/bgm_battle03.wav",
+    "ui_picture":       "data/ui/ui_mm008.tga",
+    "original_boss":    22,
+    "replacement_boss": 71,
+    "level":            23,
+    "time_limit":       1260,
+    "alarm_start_time": 126,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 26] Lava Sea 2",
+    "map":              "ad06_d01",
+    "script":           "lv26_lava_sea_2",
+    "bgm":              "sound/bgm_battle04.wav",
+    "ui_picture":       "data/ui/ui_mm009.tga",
+    "original_boss":    311,
+    "replacement_boss": 72,
+    "level":            26,
+    "time_limit":       1350,
+    "alarm_start_time": 135,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 28] Lava Sea 3",
+    "map":              "ad07_d01",
+    "script":           "lv28_lava_sea_3",
+    "bgm":              "sound/bgm_battle04.wav",
+    "ui_picture":       "data/ui/ui_mm031.tga",
+    "original_boss":    311,
+    "replacement_boss": 72,
+    "level":            28,
+    "time_limit":       1350,
+    "alarm_start_time": 135,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 30] Acurin Ruins",
+    "map":              "aq01_d01",
+    "script":           "lv30_acurin_ruins",
+    "bgm":              "sound/bgm_dun01.wav",
+    "ui_picture":       "data/ui/ui_mm010.tga",
+    "original_boss":    34,
+    "replacement_boss": 73,
+    "level":            30,
+    "time_limit":       1350,
+    "alarm_start_time": 135,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 33] Acurin Ruins 2",
+    "map":              "aq02_d01",
+    "script":           "lv33_acurin_ruins_2",
+    "bgm":              "sound/bgm_dun02.wav",
+    "ui_picture":       "data/ui/ui_mm011.tga",
+    "original_boss":    35,
+    "replacement_boss": 73,
+    "level":            33,
+    "time_limit":       1350,
+    "alarm_start_time": 135,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 35] Acurin Ruins 3",
+    "map":              "aq021_d01",
+    "script":           "lv35_acurin_ruins_3",
+    "bgm":              "sound/bgm_battle01.wav",
+    "ui_picture":       "data/ui/ui_mm039.tga",
+    "original_boss":    0,
+    "replacement_boss": 0,
+    "level":            35,
+    "time_limit":       1350,
+    "alarm_start_time": 135,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 36] Planet Acurin",
+    "map":              "aq03_d01",
+    "script":           "lv36_planet_acurin",
+    "bgm":              "sound/bgm_battle01.wav",
+    "ui_picture":       "data/ui/ui_mm012.tga",
+    "original_boss":    62,
+    "replacement_boss": 74,
+    "level":            36,
+    "time_limit":       1350,
+    "alarm_start_time": 135,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 38] Planet Acurin 2",
+    "map":              "aq031_d01",
+    "script":           "lv38_planet_acurin_2",
+    "bgm":              "sound/bgm_battle01.wav",
+    "ui_picture":       "data/ui/ui_mm032.tga",
+    "original_boss":    62,
+    "replacement_boss": 74,
+    "level":            38,
+    "time_limit":       1350,
+    "alarm_start_time": 135,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 40] Port Acurin",
+    "map":              "aq04_d01",
+    "script":           "lv40_port_acurin",
+    "bgm":              "sound/bgm_battle03.wav",
+    "ui_picture":       "data/ui/ui_mm013.tga",
+    "original_boss":    91,
+    "replacement_boss": 75,
+    "level":            40,
+    "time_limit":       1440,
+    "alarm_start_time": 144,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 43] Escape Acurin",
+    "map":              "aq05_d01",
+    "script":           "lv43_escape_acurin",
+    "bgm":              "sound/bgm_battle03.wav",
+    "ui_picture":       "data/ui/ui_mm014.tga",
+    "original_boss":    92,
+    "replacement_boss": 75,
+    "level":            43,
+    "time_limit":       1440,
+    "alarm_start_time": 144,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 46] Planet MECA",
+    "map":              "mp01_d01",
+    "script":           "lv46_planet_meca",
+    "bgm":              "sound/bgm_battle04.wav",
+    "ui_picture":       "data/ui/ui_mm015.tga",
+    "original_boss":    102,
+    "replacement_boss": 76,
+    "level":            46,
+    "time_limit":       1440,
+    "alarm_start_time": 144,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 48] Planet MECA 2",
+    "map":              "mp011_d01",
+    "script":           "lv48_planet_meca_2",
+    "bgm":              "sound/bgm_battle04.wav",
+    "ui_picture":       "data/ui/ui_mm033.tga",
+    "original_boss":    102,
+    "replacement_boss": 76,
+    "level":            48,
+    "time_limit":       1440,
+    "alarm_start_time": 144,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 50] Hidden Archive",
+    "map":              "mp02_d01",
+    "script":           "lv50_hidden_archive",
+    "bgm":              "sound/bgm_battle03.wav",
+    "ui_picture":       "data/ui/ui_mm016.tga",
+    "original_boss":    43,
+    "replacement_boss": 77,
+    "level":            50,
+    "time_limit":       1530,
+    "alarm_start_time": 153,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 53] Secret Passage",
+    "map":              "mp03_d01",
+    "script":           "lv53_secret_passage",
+    "bgm":              "sound/bgm_dun01.wav",
+    "ui_picture":       "data/ui/ui_mm017.tga",
+    "original_boss":    110,
+    "replacement_boss": 77,
+    "level":            53,
+    "time_limit":       1530,
+    "alarm_start_time": 153,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 56] Destroy MECA",
+    "map":              "mp04_d01",
+    "script":           "lv56_destroy_meca",
+    "bgm":              "sound/bgm_dun02.wav",
+    "ui_picture":       "data/ui/ui_mm018.tga",
+    "original_boss":    122,
+    "replacement_boss": 78,
+    "level":            56,
+    "time_limit":       1530,
+    "alarm_start_time": 153,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 58] Destroy MECA 2",
+    "map":              "mp041_d01",
+    "script":           "lv58_destroy_meca_2",
+    "bgm":              "sound/bgm_dun02.wav",
+    "ui_picture":       "data/ui/ui_mm034.tga",
+    "original_boss":    122,
+    "replacement_boss": 78,
+    "level":            58,
+    "time_limit":       1530,
+    "alarm_start_time": 153,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 60] Escape from MECA",
+    "map":              "mp05_d01",
+    "script":           "lv60_escape_from_meca",
+    "bgm":              "sound/bgm_battle01.wav",
+    "ui_picture":       "data/ui/ui_mm019.tga",
+    "original_boss":    140,
+    "replacement_boss": 79,
+    "level":            60,
+    "time_limit":       1620,
+    "alarm_start_time": 162,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 61] Ship Takeover",
+    "map":              "sh04_d01",
+    "script":           "lv61_ship_takeover",
+    "bgm":              "sound/bgm_battle03.wav",
+    "ui_picture":       "data/ui/ui_mm020.tga",
+    "original_boss":    140,
+    "replacement_boss": 348,
+    "level":            61,
+    "time_limit":       1620,
+    "alarm_start_time": 162,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 63] Mera Mountain",
+    "map":              "mt01_d01",
+    "script":           "lv63_mera_mountain",
+    "bgm":              "sound/bgm_battle01.wav",
+    "ui_picture":       "data/ui/ui_mm035.tga",
+    "original_boss":    140,
+    "replacement_boss": 79,
+    "level":            63,
+    "time_limit":       1620,
+    "alarm_start_time": 162,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 66] Mera Mountain 2",
+    "map":              "mt02_d01",
+    "script":           "lv66_mera_mountain_2",
+    "bgm":              "sound/bgm_battle01.wav",
+    "ui_picture":       "data/ui/ui_mm036.tga",
+    "original_boss":    157,
+    "replacement_boss": 347,
+    "level":            66,
+    "time_limit":       1620,
+    "alarm_start_time": 162,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 68] Mera Mountain 3",
+    "map":              "mt03_d01",
+    "script":           "lv68_mera_mountain_3",
+    "bgm":              "sound/bgm_battle01.wav",
+    "ui_picture":       "data/ui/ui_mm037.tga",
+    "original_boss":    253,
+    "replacement_boss": 347,
+    "level":            68,
+    "time_limit":       1620,
+    "alarm_start_time": 162,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 70] Mera Mountain 4",
+    "map":              "mt04_d01",
+    "script":           "lv70_mera_mountain_4",
+    "bgm":              "sound/bgm_battle01.wav",
+    "ui_picture":       "data/ui/ui_mm038.tga",
+    "original_boss":    253,
+    "replacement_boss": 347,
+    "level":            70,
+    "time_limit":       1620,
+    "alarm_start_time": 162,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 08] The Fallen (Elite)",
+    "map":              "el01_d01",
+    "script":           "elite_lv08_the_fallen",
+    "bgm":              "sound/bgm_dunelite.wav",
+    "ui_picture":       "data/ui/ui_me001.tga",
+    "original_boss":    163,
+    "replacement_boss": 355,
+    "level":            8,
+    "time_limit":       1080,
+    "alarm_start_time": 108,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 18] Lava Field (Elite)",
+    "map":              "el02_d01",
+    "script":           "elite_lv18_lava_field",
+    "bgm":              "sound/bgm_dunelite.wav",
+    "ui_picture":       "data/ui/ui_me002.tga",
+    "original_boss":    170,
+    "replacement_boss": 356,
+    "level":            18,
+    "time_limit":       2160,
+    "alarm_start_time": 216,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 28] The Pirate (Elite)",
+    "map":              "el03_d01",
+    "script":           "elite_lv28_the_pirate",
+    "bgm":              "sound/bgm_dunelite.wav",
+    "ui_picture":       "data/ui/ui_me003.tga",
+    "original_boss":    178,
+    "replacement_boss": 357,
+    "level":            28,
+    "time_limit":       2700,
+    "alarm_start_time": 270,
+    "old_culling":      0
+  },
+
+  {
+    "name":             "[Level 38] Evil Port (Elite)",
+    "map":              "el04_d01",
+    "script":           "elite_lv38_evil_port",
+    "bgm":              "sound/bgm_dunelite.wav",
+    "ui_picture":       "data/ui/ui_me004.tga",
+    "original_boss":    189,
+    "replacement_boss": 358,
+    "level":            38,
+    "time_limit":       2700,
+    "alarm_start_time": 270,
+    "old_culling":      1
+  },
+
+  {
+    "name":             "[Level 48] Bloodway (Elite)",
+    "map":              "el05_d01",
+    "script":           "elite_lv48_bloodway",
+    "bgm":              "sound/bgm_dunelite.wav",
+    "ui_picture":       "data/ui/ui_me005.tga",
+    "original_boss":    192,
+    "replacement_boss": 359,
+    "level":            48,
+    "time_limit":       2880,
+    "alarm_start_time": 288,
+    "old_culling":      0
+  }
+
+]

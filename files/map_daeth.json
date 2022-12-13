@@ -1,0 +1,73 @@
+[
+    {
+        "name":             "Cage of Death",
+        "map":              "ringoffighter",
+        "bgm":              "sound/bgm_battle01.wav",
+        "ui_picture":       "data/ui/ui_mb001.tga",
+        "random_included":  1,
+        "old_culling":      1
+    },
+
+    {
+        "name":             "Deadly Station",
+        "map":              "wasteland",
+        "bgm":              "sound/bgm_battle02.wav",
+        "ui_picture":       "data/ui/ui_mb002.tga",
+        "random_included":  1,
+        "old_culling":      1
+    },
+
+    {
+        "name":             "Crash Bridge",
+        "map":              "neo_wasteland",
+        "bgm":              "sound/bgm_battle03.wav",
+        "ui_picture":       "data/ui/ui_mb003.tga",
+        "random_included":  1,
+        "old_culling":      1
+    },
+
+    {
+        "name":             "Lava Canyon",
+        "map":              "moongate",
+        "bgm":              "sound/bgm_battle04.wav",
+        "ui_picture":       "data/ui/ui_mb004.tga",
+        "random_included":  1,
+        "old_culling":      0
+    },
+
+    {
+        "name":             "Pirate Island",
+        "map":              "killi",
+        "bgm":              "sound/bgm_battle01.wav",
+        "ui_picture":       "data/ui/ui_mb005.tga",
+        "random_included":  1,
+        "old_culling":      1
+    },
+
+    {
+        "name":             "Land of Death",
+        "map":              "new_deathvalley",
+        "bgm":              "sound/bgm_battle03.wav",
+        "ui_picture":       "data/ui/ui_mb007.tga",
+        "random_included":  1,
+        "old_culling":      0
+    },
+
+    {
+        "name":             "Pit of Faith",
+        "map":              "new_pod",
+        "bgm":              "sound/bgm_battle02.wav",
+        "ui_picture":       "data/ui/ui_mb009.tga",
+        "random_included":  1,
+        "old_culling":      0
+    },
+
+    {
+        "name":             "Dark-Temple",
+        "map":              "darkness_temple",
+        "bgm":              "sound/bgm_battle03.wav",
+        "ui_picture":       "data/ui/ui_mm028.tga",
+        "random_included":  1,
+        "old_culling":      0
+    }
+]

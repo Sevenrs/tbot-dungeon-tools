@@ -1,0 +1,21 @@
+[
+  {
+    "name":                           "OceanOutpost",
+    "map":                            "base_gvdoutpost",
+    "script":                         "base_gvdoutpost.bse",
+    "bgm":                            "sound/bgm_dun01.wav",
+    "ui_picture":                     "data/ui/ui_mt001.tga",
+    "time_limit":                     450,
+    "alarm_start_time":               45,
+    "user_respawn_basic":             15,
+    "user_respawn_cumulative":        0,
+    "mercenary_respawn_basic":        15,
+    "mercenary_respawn_cumulative":   0,
+    "max_respawn":                    5,
+    "map_area_left":                  24,
+    "map_area_top":                   21,
+    "map_area_right":                 106,
+    "map_area_bottom":                0,
+    "random_included":                1
+  }
+]

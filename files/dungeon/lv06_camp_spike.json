@@ -1,0 +1,95 @@
+{
+  "spawns": [
+    315,
+    315,
+    315,
+    315,
+    4,
+    4,
+    -1,
+    315,
+    315,
+    315,
+    0,
+    0,
+    2,
+    2,
+    4,
+    4,
+    4,
+    2,
+    82,
+    315,
+    315,
+    2,
+    2,
+    0,
+    0,
+    315,
+    315,
+    -1,
+    2,
+    2,
+    0,
+    2,
+    0,
+    0,
+    2,
+    0,
+    3,
+    -1,
+    -1
+  ],
+
+  "blocks": [
+
+    {
+
+      "rect":         [ 5, 20, 61, 0 ],
+      "enemies":      [ 0, 1, 2, 3, 4, 5, 6 ],
+      "respawn":      [ ],
+      "clear":        [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "Your home is under attack. You must protect it at all costs.",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 41, 20, 81, 0 ],
+      "enemies":      [ 7, 8, 9, 10, 11, 12, 13 ],
+      "respawn":      [ ],
+      "clear":        [ 7, 8, 9, 10, 11, 12, 13 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 65, 20, 104, 0 ],
+      "enemies":      [ 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 ],
+      "respawn":      [ ],
+      "clear":        [ 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26 ],
+      "vip":          [ ],
+      "exceptional":  [ 18 ],
+      "text":         "There are plenty of enemies here. Be careful!",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 93, 20, 126, 0 ],
+      "enemies":      [ 11, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 ],
+      "respawn":      [ ],
+      "clear":        [ 36 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "Slayer has arrived to try to take you down. Don't let it happen.",
+      "countdown":    0
+    }
+
+  ]
+}

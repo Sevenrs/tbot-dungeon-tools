@@ -1,0 +1,87 @@
+{
+  "spawns": [
+    315,
+    315,
+    82,
+    315,
+    315,
+    -1,
+    -1,
+    314,
+    314,
+    314,
+    312,
+    312,
+    312,
+    -1,
+    -1,
+    -1,
+    315,
+    315,
+    -1,
+    -1,
+    -1,
+    315,
+    314,
+    312,
+    313,
+    312,
+    314,
+    82,
+    -1,
+    -1,
+    -1
+  ],
+
+  "blocks": [
+
+    {
+
+      "rect":         [ 5, 14, 32, 1 ],
+      "enemies":      [ 0, 1, 2, 3, 4 ],
+      "respawn":      [ ],
+      "clear":        [ 0, 1, 3, 4 ],
+      "vip":          [ ],
+      "exceptional":  [ 2 ],
+      "text":         "You have just arrived in Base Camp. Your path seems to be blocked by hostiles. Clear them out!",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 5, 20, 49, 1 ],
+      "enemies":      [ 7, 8, 9, 10, 11, 12 ],
+      "respawn":      [ ],
+      "clear":        [ 7, 8, 9, 10, 11, 12 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 5, 32, 49, 1 ],
+      "enemies":      [ 16, 17 ],
+      "respawn":      [ ],
+      "clear":        [ 16, 17 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "Something is not right, the T-Bots attacking you are workers. We have to figure out what is happening!",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 5, 48, 49, 1 ],
+      "enemies":      [ 21, 22, 23, 24, 25, 26, 27 ],
+      "respawn":      [ ],
+      "clear":        [ 24 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "Focus on Slayer!",
+      "countdown":    0
+    }
+
+  ]
+}

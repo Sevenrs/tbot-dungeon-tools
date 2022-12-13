@@ -1,0 +1,139 @@
+{
+
+  "spawns": [
+    317,
+    317,
+    318,
+    400,
+    317,
+    317,
+    318,
+    316,
+    404,
+    400,
+    404,
+    82,
+    404,
+    317,
+    83,
+    317,
+    318,
+    319,
+    85,
+    318,
+    400,
+    316,
+    404,
+    400,
+    317,
+    317,
+    316,
+    316,
+    400,
+    316,
+    404,
+    404,
+    316,
+    400,
+    404,
+    404,
+    318,
+    83,
+    317,
+    317,
+    317,
+    317,
+    316,
+    319,
+    310,
+    14
+  ],
+
+  "blocks": [
+
+    {
+
+      "rect":         [ 0, 50, 16, 13 ],
+      "enemies":      [ 0, 1, 2, 3 ],
+      "respawn":      [ ],
+      "clear":        [ 0, 1, 2 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "We have entered the entrance to the mines of Alderan. There is a saying that the mines of Alderan store some very dangerous weapons.",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 17, 50, 24, 13 ],
+      "enemies":      [ 4, 5, 6, 7, 8, 9 ],
+      "respawn":      [ ],
+      "clear":        [ 4, 5, 6, 7 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "Watch out for the traps!",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 24, 50, 32, 13 ],
+      "enemies":      [ 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ],
+      "respawn":      [ ],
+      "clear":        [ 13, 15, 16, 17, 19 ],
+      "vip":          [ ],
+      "exceptional":  [ 11, 14, 18 ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 33, 56, 40, 0 ],
+      "enemies":      [ 21, 22, 23 ],
+      "respawn":      [ ],
+      "clear":        [ 21 ],
+      "vip":          [ ],
+      "exceptional":  [ 11, 14, 18 ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 41, 56, 55, 0 ],
+      "enemies":      [ 24, 25, 26, 27, 2 ],
+      "respawn":      [ ],
+      "clear":        [ 24, 25, 26, 27 ],
+      "vip":          [ ],
+      "exceptional":  [ 11, 14, 18 ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 41, 56, 69, 0 ],
+      "enemies":      [ 29, 30, 31, 32, 33 ],
+      "respawn":      [ ],
+      "clear":        [ 29, 32 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 74, 56, 92, 0 ],
+      "enemies":      [ 34, 35, 36, 37, 38, 39, 40, 42, 43, 44 ],
+      "respawn":      [ ],
+      "clear":        [ 44 ],
+      "vip":          [ 44 ],
+      "exceptional":  [ 37 ],
+      "text":         "Morlock is defending the entrance to the mines. Eradicate him!",
+      "countdown":    0
+    }
+
+  ]
+}

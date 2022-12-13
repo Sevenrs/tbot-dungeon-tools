@@ -1,0 +1,117 @@
+{
+  "spawns": [
+    15,
+    15,
+    15,
+    15,
+    400,
+    -1,
+    15,
+    15,
+    16,
+    16,
+    17,
+    15,
+    83,
+    400,
+    15,
+    15,
+    16,
+    17,
+    15,
+    15,
+    15,
+    17,
+    19,
+    82,
+    82,
+    83,
+    400,
+    15,
+    15,
+    85,
+    83,
+    400,
+    16,
+    19,
+    82,
+    83,
+    15,
+    14,
+    15,
+    15,
+    16,
+    16,
+    17,
+    17,
+    15,
+    56,
+    82,
+    83,
+    83
+  ],
+
+  "blocks": [
+
+    {
+
+      "rect":         [ 2, 118, 47, 96 ],
+      "enemies":      [ 0, 1, 2, 3, 4, 5 ],
+      "respawn":      [ ],
+      "clear":        [ 0, 1, 2, 3 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "You have entered the Mines of Alderan. We have to find the leader of this mine and take it out.",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 48, 118, 72, 96 ],
+      "enemies":      [ 6, 7, 8, 9, 10, 11, 12, 13 ],
+      "respawn":      [ ],
+      "clear":        [ 6, 7, 8, 9, 10, 11 ],
+      "vip":          [ ],
+      "exceptional":  [ 12 ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 73, 118, 106, 96 ],
+      "enemies":      [ 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 ],
+      "respawn":      [ ],
+      "clear":        [ 14, 15, 16, 17, 18, 19, 20, 21, 22 ],
+      "vip":          [ ],
+      "exceptional":  [ 23, 24, 25 ],
+      "text":         "",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 73, 97, 106, 69 ],
+      "enemies":      [ 27, 28, 29, 30, 31, 32, 33, 34, 35 ],
+      "respawn":      [ ],
+      "clear":        [ 27, 28, 32, 33 ],
+      "vip":          [ ],
+      "exceptional":  [ 29, 30, 34, 35 ],
+      "text":         "Noise can be heard down. We should check it out.",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 107, 118, 126, 96 ],
+      "enemies":      [ 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48 ],
+      "respawn":      [ ],
+      "clear":        [ 45 ],
+      "vip":          [ 45 ],
+      "exceptional":  [ 46, 47, 48 ],
+      "text":         "Defeat Chain-King and its troops",
+      "countdown":    0
+    }
+
+  ]
+}

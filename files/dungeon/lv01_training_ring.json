@@ -1,0 +1,122 @@
+{
+  "spawns": [
+    14,
+    14,
+    14,
+    14,
+    12,
+    12,
+    12,
+    12,
+    -1,
+    -1,
+    14,
+    14,
+    12,
+    10,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    14,
+    14,
+    12,
+    10,
+    -1,
+    -1,
+    -1,
+    82,
+    82,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    10,
+    11,
+    12,
+    14,
+    14
+  ],
+
+  "blocks": [
+
+    {
+
+      "rect":         [ 29, 24, 50, 0 ],
+      "enemies":      [ 0, 1, 2, 3 ],
+      "respawn":      [ ],
+      "clear":        [ 0, 1, 2, 3 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "Welcome to T-Bot Rewritten! You are in a combat simulation. Try to defeat all the enemies here before proceeding.",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 29, 24, 50, 0 ],
+      "enemies":      [ 4, 5, 6, 7 ],
+      "respawn":      [ ],
+      "clear":        [ 4, 5, 6, 7 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "Try to defeat these Beta units. If you find yourself in trouble, quickly press the arrow keys to run away!",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 29, 24, 50, 0 ],
+      "enemies":      [ 8, 9, 10, 11, 12, 13, 14, 15 ],
+      "respawn":      [ ],
+      "clear":        [ 8, 9, 10, 11, 12, 13, 14, 15 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "When you have gained enough transformation gauge, you can press Z to transform.",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 29, 24, 50, 0 ],
+      "enemies":      [ 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 ],
+      "respawn":      [ ],
+      "clear":        [ 24, 25, 26, 27, 28, 29, 30, 31 ],
+      "vip":          [ ],
+      "exceptional":  [ 32, 33, 34 ],
+      "text":         "Destroy barrels and a random item might drop for you to pick up.",
+      "countdown":    0
+    },
+
+    {
+
+      "rect":         [ 29, 24, 50, 0 ],
+      "enemies":      [ 48, 49, 50, 51, 52, 53 ],
+      "respawn":      [ ],
+      "clear":        [ 50 ],
+      "vip":          [ ],
+      "exceptional":  [ ],
+      "text":         "Beta-B has detected you. Defeat him to complete this simulation.",
+      "countdown":    0
+    }
+
+  ]
+}
