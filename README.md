@@ -1,4 +1,4 @@
-### T-Bot Dungeon Tools
+### Bots Dungeon Tools
 
 Modify the paths to your need. You can only test the dungeon binary file while the client is open. The other files are registered once the client initially starts.
 
