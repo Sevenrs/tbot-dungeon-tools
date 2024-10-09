@@ -17,3 +17,7 @@ Generating map_base.bin:\
 
 There is a work in progress GUI that you could use, but it is incomplete. To start that, run:
 `python gui.py`
+### Extractor Advance
+ohka bots
+Unpacking  dungeon.bin:\
+![image](https://github.com/user-attachments/assets/d4813831-109b-4c3a-9e5e-c7060ea6218b)
