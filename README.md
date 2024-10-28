@@ -38,4 +38,7 @@ muy pronto estaré actualizando el código.
 
 ![image](https://github.com/user-attachments/assets/45eb7015-c1cf-4581-afbd-1f7037aab58d)
 
+![20241028_143804](https://github.com/user-attachments/assets/914939ec-9759-426c-b3d1-756530140c9b)
+
+
 
