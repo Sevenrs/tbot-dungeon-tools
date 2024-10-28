@@ -34,6 +34,8 @@ muy pronto estaré actualizando el código.
         "defense": 215,
         ... 
 ```
+![image](https://github.com/user-attachments/assets/b237cb62-382e-4238-9af3-6dc5867621ea)
+
 ![image](https://github.com/user-attachments/assets/45eb7015-c1cf-4581-afbd-1f7037aab58d)
 
 
