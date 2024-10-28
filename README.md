@@ -26,11 +26,13 @@ Unpacking  dungeon.bin:\
 se logró modificar los stats , vida ataque y nombre de los npc
 así mismo se obtienen las ids de todos los npcs para la creacion o modificación de nuevos mapas en un formato más limpio
 muy pronto estaré actualizando el código.
-` "id": 1,
+"` "id": 1,
         "name": "Alpha",
         "life": 1856,
         "damage": 143,
         "defense": 215,
-        ... `
+        ... 
+`
+"
 ![sa](https://github.com/user-attachments/assets/f39deef3-9e0d-4acb-988d-cb61304779e9)
 
