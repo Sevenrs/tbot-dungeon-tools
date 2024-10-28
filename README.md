@@ -21,3 +21,8 @@ There is a work in progress GUI that you could use, but it is incomplete. To sta
 ohka bots
 Unpacking  dungeon.bin:\
 ![image](https://github.com/user-attachments/assets/d4813831-109b-4c3a-9e5e-c7060ea6218b)
+
+### Update 3
+se logró modificar los stats , vida ataque y nombre de los npc
+![sa](https://github.com/user-attachments/assets/f39deef3-9e0d-4acb-988d-cb61304779e9)
+
